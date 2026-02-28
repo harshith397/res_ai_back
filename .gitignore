@@ -1,0 +1,7 @@
+.env
+uploaded_papers/
+agent_core.py
+test_web.py
+download_model.py
+local_models/
+__pycache__
